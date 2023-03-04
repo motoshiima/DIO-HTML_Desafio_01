@@ -1,4 +1,4 @@
-# DIO - Desafio De Projeto ( Modulo 01 )
+# DIO - Desafio De Projeto 01 ( HTML )
 
 Objetivo : Criar Uma Página Web Utilizando as Tags Aprendidas
 
